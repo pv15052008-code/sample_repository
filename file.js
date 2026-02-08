@@ -174,7 +174,53 @@
 // .catch((err)=>{
 //     console.log(err);
 // })
-// === =================================================lecture 2 {operators AND conditional statements}=======================================================================================
+console.log("first line ")
+setTimeout(()=>{
+
+
+}
+)
+function orderfood(){
+    return new promise((res,rej)=>{
+        setTimeout(()=>{
+            console.log("foodordered")
+            res()
+
+        },2000)
+    })
+}
+
+function prepareFood(){
+    return new promise((res,rej)=>{
+        setTimeout(()=>{
+            console.log("food prepared")
+            res()
+            //rej ("order cancelled")
+        },2000)
+    })
+}
+
+function deliverFood(){
+    return new promise((res,rej)=>{
+        setTimeout(()=>{
+            console.log("food delivered")
+            res()
+        },2000)
+    })
+}
+async function foodOrdered(){
+    await orderfood()
+    await prepareFood()
+    await deliverFood()
+    console.log("enjoy ur food")
+
+}
+foodOrdered()
+
+
+
+
+// =====================================================lecture 2 {operators AND conditional statements}=======================================================================================
 // // Arithmetic Operators
 // let a = 10;
 // let b = 3;
