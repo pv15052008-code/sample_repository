@@ -174,6 +174,8 @@
 // .catch((err)=>{
 //     console.log(err);
 // })
+
+/*
 console.log("first line ")
 setTimeout(()=>{
 
@@ -215,7 +217,9 @@ async function foodOrdered(){
     console.log("enjoy ur food")
 
 }
-foodOrdered()
+foodOrdered()*/
+
+
 
 
 
@@ -268,7 +272,28 @@ console.log("5!=4", a!=b )// true
 console.log("5==5", a==c )// true 
 console.log("5>=4", a>=b )// true 
 console.log("5<=4", a<=b )// false
-console.log("5===5", a===c ) //false*/ 
+console.log("5===5", a===c ) //false*/
+
+/*const card =document.createElement("div")
+card.innerHtMl=`
+<div class="card">
+       <h2>${tittle}</h2>
+       <p>${DAte}</p>
+       <button>${category}</button>
+       <p>${descripition}</p>
+       <button class="delete">❌</button>
+</div>
+`
+card.querySelector(".delete").addEventListener('click',()=>{
+    card.remove()
+}) 
+eventcard.appenedChild(card)  */
+// api is a waiter betwwen the backened and frontened . 
+ /*  when we use     */
+ 
+
+
+
 //=====================================================// logical operator================================================
  // logical And operator("&&")
  /*
@@ -281,8 +306,33 @@ console.log("cond1-&&-cond2=" , cond1&&cond2 ) // true
 console.log("cond1-||-cond2",cond1||cond2 )
 console.log("!(a<b)=",!(a<b) )//true 
 */
+// ================================================================conditional statement ====================================
+// first if else codition 
 
-
-
-
-
+console.log("hello my name is payal verma ")
+let age = 20;
+if (age>18){0
+    console.log("you can drive");
+}
+else if (age<18){
+    console.log("you canot drive ")
+}
+// try{
+//     const response=await fetch("https://jsonplaceholder.typicode.com/posts" , {
+//         method:"POST",
+//         headers:{
+//             "Content-type":"application/json"
+//         },
+//         body:JSON.stringify({
+//             title:"foo",
+//             body:"bar",
+//             userId:1
+//         })
+//     })
+//     if(!response.ok){
+//         throw new Error("Something went wrong")
+//     }
+// const data=await response.JSON()
+// console.log(data)
+    
+// }
