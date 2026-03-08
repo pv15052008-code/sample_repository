@@ -309,30 +309,15 @@ console.log("!(a<b)=",!(a<b) )//true
 // ================================================================conditional statement ====================================
 // first if else codition 
 
-console.log("hello my name is payal verma ")
-let age = 20;
-if (age>18){0
-    console.log("you can drive");
-}
-else if (age<18){
-    console.log("you canot drive ")
-}
-// try{
-//     const response=await fetch("https://jsonplaceholder.typicode.com/posts" , {
-//         method:"POST",
-//         headers:{
-//             "Content-type":"application/json"
-//         },
-//         body:JSON.stringify({
-//             title:"foo",
-//             body:"bar",
-//             userId:1
-//         })
-//     })
-//     if(!response.ok){
-//         throw new Error("Something went wrong")
-//     }
-// const data=await response.JSON()
-// console.log(data)
-    
+// console.log("hello my name is payal verma ")
+// let age = 20;
+// if (age>18){0
+//     console.log("you can drive");
 // }
+// else if (age<18){
+//     console.log("you canot drive ")
+// }
+
+//===================================================================college work ==========================
+// #generate
+console.log("my name is payal verma" );
