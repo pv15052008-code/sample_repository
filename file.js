@@ -320,4 +320,8 @@ console.log("!(a<b)=",!(a<b) )//true
 
 //===================================================================college work ==========================
 // #generate
-console.log("my name is payal verma" );
+// console.log("my name is payal verma" );
+let a =32
+let b=56
+console.log(a);
+console.log(b);
