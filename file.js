@@ -324,4 +324,4 @@ console.log("!(a<b)=",!(a<b) )//true
 let a =32
 let b=56
 console.log(a);
-console.log(b);
+console.log(b);~
