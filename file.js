@@ -322,17 +322,4 @@ console.log("!(a<b)=",!(a<b) )//true
 // #generate
 // console.log("my name is payal verma" );
 // let a =32
-// let b=56
-// console.log(a);
-// console.log(b);
- let a = 2
- let b = 25
- console.log(a);
- console.log(b);
-
-
- console.log("my name is payal verma");
- console.log("i am study in krmu ");
- console.log("doing  btech cse ");
-
 
