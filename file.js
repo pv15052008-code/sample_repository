@@ -323,3 +323,4 @@ console.log("!(a<b)=",!(a<b) )//true
 // console.log("my name is payal verma" );
 // let a =32
 console.log(" can i able to belive any one again after all of this fuck things ")
+// console.log(" after all of this stuff . can i love someone  again as i love him???`(*>﹏<*)′`(*>﹏<*)′(#｀-_ゝ-)~(>_<。)＼~(>_<。)＼~(>_<。)＼~(>_<。)＼😣😣🥴😵‍💫😩🥹🙂‍↔️")
