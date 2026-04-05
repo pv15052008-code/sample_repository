@@ -324,3 +324,7 @@ console.log("!(a<b)=",!(a<b) )//true
 // let a =32
 console.log(" can i able to belive any one again after all of this fuck things ")
 // console.log(" after all of this stuff . can i love someone  again as i love him???`(*>﹏<*)′`(*>﹏<*)′(#｀-_ゝ-)~(>_<。)＼~(>_<。)＼~(>_<。)＼~(>_<。)＼😣😣🥴😵‍💫😩🥹🙂‍↔️")
+console.log("In the silence of night, I hear your name,")
+console.log("Like a gentle whisper, soft as a flame. ")
+console.log("No distance can fade what hearts still feel, ")
+console.log("Some bonds are quiet… but forever real.")
